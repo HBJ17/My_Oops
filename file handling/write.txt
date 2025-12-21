@@ -1,4 +1,0 @@
-Hello Python
-File handling example
-This line is appended
-This line is appended

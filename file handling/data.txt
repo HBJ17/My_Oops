@@ -1,3 +1,0 @@
-Hello
-Welcome to Python
-File handling is easy
